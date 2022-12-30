@@ -1,4 +1,4 @@
-Environment: Windows11, Visual Studio Code, Linux server on VirtualBox
+Environment: Windows11 terminal, Visual Studio Code, Linux server on VirtualBox
 
 Languages: Python
 
