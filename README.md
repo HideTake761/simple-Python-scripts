@@ -1,6 +1,6 @@
 Environment: Windows11 terminal, Visual Studio Code, Linux server on VirtualBox
 
-Languages: Python
+Language: Python
 
 - mergePDF.py
 
