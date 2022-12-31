@@ -13,3 +13,6 @@ Before executing the code, you need to install PyPDF2.
 - uploadFile.py, downloadFile.py
 
 Features: Uploading and downloading the file between local Windows laptop and Linux server on VirtualBox
+
+paramiko.SSHClient - document
+https://docs.paramiko.org/en/stable/api/client.html
