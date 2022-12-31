@@ -4,9 +4,9 @@ import paramiko
  
 HOST = '192.168.56.102'
 USER = 'user'
-PWD = '1234'
+PWD = '******'
  
-LOCAL_PATH  = "/Users/taken/Desktop/sample_merge.pdf"
+LOCAL_PATH  = "/Users/*****/Desktop/sample_merge.pdf"
 REMOTE_PATH = "/home/user/sample_merge.pdf"
  
 ssh = paramiko.SSHClient()
